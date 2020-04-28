@@ -22,7 +22,6 @@
 
 <p align="center">
   <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#calendar-entrega">Entrega</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -52,7 +51,7 @@ Agora navegue até a pasta criada e abra no Visual Studio Code, lembre-se de exe
     "updated_at": "2020-04-20T00:00:49.594Z"
   }
 }
-
+```
 
 ### Layout da aplicação
 
@@ -77,4 +76,3 @@ Agora que você já está com o template clonado e pronto para continuar, você 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
-```
